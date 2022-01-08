@@ -5,7 +5,7 @@
 
 <br/>
 
-#### I'm currently interested in ...
+#### I'm currently interested in
 - Open Source Contributing
 - Educating
 - CI/CD
@@ -15,7 +15,7 @@
 - [LinkedIn](https://www.linkedin.com/in/hyo-seong/)
 - [stackoverflow](https://stackoverflow.com/users/10544154/henry-lee)
 
-#### My Personal Things
+#### My Personal Sites
 - [Tech Blog](https://chashtag.tistory.com/)
 - [Portfolio](https://www.notion.so/Software-Engineer-90b8631cdf514896aa7af8c79b6a6c78)
 
