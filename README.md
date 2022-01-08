@@ -20,7 +20,9 @@
 - [Portfolio](https://www.notion.so/Software-Engineer-90b8631cdf514896aa7af8c79b6a6c78)
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=hyo-seong&show_icons=true&count_private=true" />
+
+[![hyo-seong's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyo-seong&show_icons=true&count_private=true&include_all_commits=true)](https://github.com/hyo-seong)
+
 <br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyo-seong&layout=compact&count_private=true)](https://github.com/hyo-seong)
