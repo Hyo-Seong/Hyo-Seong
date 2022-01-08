@@ -1,7 +1,7 @@
 ## HyoSeong(Henry) Lee - .NET Engineer
 
 
-### 👋 Hello there. Welcome to my github!
+### 👋 Hello there, Welcome to my github!
 
 <br/>
 
