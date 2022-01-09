@@ -1,4 +1,4 @@
-## HyoSeong(Henry) Lee - .NET Engineer
+## Henry(HyoSeong) Lee - .NET Engineer
 
 
 ### 👋 Hello there, Welcome to my github!
