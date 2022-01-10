@@ -6,6 +6,7 @@
 <br/>
 
 #### I'm currently interested in
+- .NET
 - Open Source Contributing
 - Educating
 - CI/CD
