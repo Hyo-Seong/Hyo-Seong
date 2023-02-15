@@ -7,10 +7,10 @@
 
 #### I'm currently interested in
 - .NET
-- Open Source Contributing
-- Educating
+- BlockChain
+- Education
 - CI/CD
-- Clean Architecture
+- Software Architecture
 
 #### My Profile
 - [LinkedIn](https://www.linkedin.com/in/hyo-seong/)
