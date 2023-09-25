@@ -7,7 +7,6 @@
 
 #### I'm currently interested in
 - .NET
-- BlockChain
 - Education
 - CI/CD
 - Software Architecture
